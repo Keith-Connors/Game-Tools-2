@@ -1,4 +1,5 @@
-# GameTools2_Assignment1
-## Vertical Slice of an animation focused game.
+# Game Tools 2 Repo
 
-![GameTools Project](http://i64.tinypic.com/33bgwpd.png)
+[Keith Connors - Twitter](https://www.twitter.com/aYc_Lenny "@aYc_Lenny")
+
+
